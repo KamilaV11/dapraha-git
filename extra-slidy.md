@@ -7,3 +7,4 @@ git init muj-projekt
 Vytvoří složku `muj-projekt` a začne ji verzovat v Gitu.
 
 ---
+venku strasne prsi
